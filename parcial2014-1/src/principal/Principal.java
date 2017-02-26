@@ -22,7 +22,7 @@ public class Principal {
         // TODO code application logic here
         Principal p = new Principal();
         p.Ejercicio1();
-
+		System.out.println("hola");
     }
 
     public void Ejercicio1() {
